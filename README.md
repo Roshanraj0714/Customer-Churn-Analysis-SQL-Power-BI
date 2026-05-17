@@ -118,7 +118,7 @@ The project demonstrates multiple SQL concepts including:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Customer_Churn_Dashboard.png)
+![Dashboard](https://github.com/Roshanraj0714/Customer-Churn-Analysis-SQL-Power-BI/blob/main/Customer_Churn_Dashboard.png)
 
 ---
 
