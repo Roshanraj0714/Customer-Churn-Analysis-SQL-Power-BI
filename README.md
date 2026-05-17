@@ -132,6 +132,28 @@ This project helps businesses:
 
 ---
 
+📂 Files in Repository
+
+Customer_Churn.pbix → Power BI project file.
+
+Customer_Churn_Analysis.sql → SQL queries used for data cleaning, customer churn analysis, revenue analysis, and business insights generation.
+
+Amazon-Sales.png → Dashboard snapshot for quick view.
+
+Customer_Churn_Dataset.csv → Customer_Churn_Dataset.csv → Telecom customer churn dataset containing customer demographics, services, contract details, payment methods, monthly charges, and churn information.
+
+README.md → Project documentation.
+
+🔗 Live Dashboard / Report (Optional)
+
+👉 https://app.powerbi.com/groups/me/reports/64c2d343-7ca5-4f0c-b77a-ebb9e04a27d6/69091e3d44d66e37fe21?experience=power-bi
+
+🙌 Acknowledgement
+
+Dataset Source: IBM Sample Data / Kaggle Telco Customer Churn Dataset
+
+Tools: PostgreSQL, pgAdmin 4, Microsoft Excel, Microsoft Power BI, GitHub
+
 # ⭐ Conclusion
 
 This project demonstrates practical skills in:
